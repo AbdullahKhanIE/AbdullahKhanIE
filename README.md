@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkhanie&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahkhanie" /> </p>
 <p align="left">
 <a href="https://linkedin.com/in/abdullahkhanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahkhanie" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullahkhan_ie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahkhan_ie" height="30" width="40" /></a>
+<a href="https://instagram.com/abdullahkhanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahkhan_ie" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdullahkhanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdullahkhanie" height="30" width="40" /></a>
 </p>
 
