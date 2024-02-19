@@ -1,3 +1,4 @@
+![Visitor Count](https : //profile-counter.glitch.me/{abdullahkhanie}/count.svg)
 
 <h1 align="center">I'm Abdullah Khan</h1>
 <h3 align="center">A passionate CSE student from Bangladesh. Learning new thing and improving day by day.</h3>
