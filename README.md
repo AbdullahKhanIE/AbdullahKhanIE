@@ -17,7 +17,7 @@
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=abdullahkhanie&theme=radical" />
 </a>
 <a  href="https://github.com/abdullahkhanie/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkhanie&layout=compact&langs_count=8&theme=radical&card_width=320" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkhanie&layout=compact&langs_count=8&theme=radical&card_width=300" />
 </a>
 </center>
 
