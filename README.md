@@ -18,6 +18,12 @@
 </a> <a  href="https://github.com/abdullahkhanie/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkhanie&layout=compact&langs_count=8&theme=radical&card_width=320" />
 </a>
+<a href="https://github.com/abdullahkhanie/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahkhanie" />
+</a>
+<a href="https://github.com/abdullahkhanie/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkhanie&layout=compact&langs_count=8&card_width=320" />
+</a>
 <!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkhanie&show_icons=true&locale=en&layout=compact" alt="abdullahkhanie" /></p>
 <h3 align="left">Support:</h3>
